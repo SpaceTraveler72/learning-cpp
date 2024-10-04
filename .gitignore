@@ -1,5 +1,5 @@
 # stuff I added
-.vscode/*
+#.vscode/*
 
 # Prerequisites
 *.d
